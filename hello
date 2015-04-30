@@ -1,0 +1,10 @@
+/* tp#0 salida mostrar texto
+* Jorge Ruben Grin
+* 20150430
+*/
+#include <iostream>
+
+int main() {
+	std::cout << "HOLA MUNDO!\n";
+
+}
